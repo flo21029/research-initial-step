@@ -8,7 +8,7 @@ This software's purpose is to set up a basic environment to start developing mor
 
 YouTube Link: 
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/ryUraC2Lpxw)
 
 # Development Environment
 
